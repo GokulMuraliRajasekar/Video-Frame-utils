@@ -1,11 +1,11 @@
 # Video-Frame-utils
 
-extract frames from video/ create video from images
+PyQt5, Opencv based app to extract frames from video files and create video from a folder of images.
 
-# setup
+## setup
 
 pip install -r requirements
 
-# run the app
+## run the app
 
 python app.py
