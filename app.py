@@ -14,8 +14,6 @@ import time
 import sys
 from functools import partial
 
-# timeit decorator
-
 
 def timeit(func):
 
